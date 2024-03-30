@@ -1,0 +1,10 @@
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\bin\Debug\Main.exe.config
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\bin\Debug\Main.exe
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\bin\Debug\Main.pdb
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\obj\Debug\Main.Form1.resources
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\obj\Debug\Main.exe
+C:\Users\tranc\OneDrive\Máy tính\hình ảnh chuyên nghành\SourceChuyenNghanh\QLKS\Main\obj\Debug\Main.pdb

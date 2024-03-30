@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f9f2a3440fca4d2bbefce26298937757" Name="Diagram1">
+        <EntityTypeShape EntityType="KHACHSANModel.BangLuong" Width="1.5" PointX="6" PointY="19.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.BangThuePhong" Width="1.5" PointX="3" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.BoPhan" Width="1.5" PointX="1.5" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.ChiTietHoaDonThu" Width="1.5" PointX="8.25" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.ChucDanh" Width="1.5" PointX="1.5" PointY="23.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.CoSoVatChat" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.DichVu" Width="1.5" PointX="6" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.HoaDonChi" Width="1.5" PointX="6" PointY="22.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.HoaDonThu" Width="1.5" PointX="6" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.HoiVien" Width="1.5" PointX="3" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.KhachHang" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.LoaiDichVu" Width="1.5" PointX="3.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.LoaiPhong" Width="1.5" PointX="1.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.NguoiOCung" Width="1.5" PointX="8.25" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.NhanVien" Width="1.5" PointX="3.75" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.PhanHoi" Width="1.5" PointX="5.25" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.Phong" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.PhongVatTu" Width="1.5" PointX="6" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.SuDungDichVu" Width="1.5" PointX="8.25" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.TinhTrangPhong" Width="1.5" PointX="1.5" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.TrangThaiThuePhong" Width="1.5" PointX="0.75" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSANModel.User" Width="1.5" PointX="6" PointY="25.5" IsExpanded="true" />
+        <AssociationConnector Association="KHACHSANModel.FK__BangLuong__TroCa__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__BangThueP__idKha__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__BangThueP__idTra__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__BangThueP__idTra__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__ChiTietHo__idBan__17036CC0" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__NguoiOCun__idNgu__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__PhanHoi__NoiDung__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__SuDungDic__idDic__40058253" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__NhanVien__IDBoPh__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__ChiTietHo__idBan__160F4887" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__NhanVien__IDBoPh__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__CoSoVatCh__idTin__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__PhongVatT__idCoS__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__DichVu__KTPhucVu__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__SuDungDic__idDic__40F9A68C" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__HoaDonChi__TongT__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__HoaDonThu__idNha__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__HoaDonThu__TongT__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__NguoiOCun__idNgu__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__Phong__idLoaiPho__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__UserS__idNhanVie__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__Phong__idTinhTra__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.FK__PhongVatT__idCoS__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="KHACHSANModel.DanhSachHoiVien" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
